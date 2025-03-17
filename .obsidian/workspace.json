@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "efecf15a304e01e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f77f21a7128234b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473939d1fa430957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_git/test2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe39640ee36a548",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c71be84446de22",
+        "type": "tabs",
+        "dimension": 59.362934362934354,
+        "children": [
+          {
+            "id": "1a81cb8d753eeb57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a56926a223d7052d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9cfab2297219b87b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ba39e30596993a6",
+        "type": "tabs",
+        "dimension": 40.63706563706564,
+        "children": [
+          {
+            "id": "c26df9e21bf555a3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "obsidian_git/test2.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224428,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of test2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505.5
+  },
+  "right": {
+    "id": "4257ec4b2025d6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc917aa5f35a5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cc46e4bfc57f32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git_page/content/how to connect git_page, obsidian & automation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for how to connect git_page, obsidian & automation"
+            }
+          },
+          {
+            "id": "8277e2620b2bc450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git_page/content/how to connect git_page, obsidian & automation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from how to connect git_page, obsidian & automation"
+            }
+          },
+          {
+            "id": "cac62c73710d54e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0446cd03fcbe6b13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian_git/test2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test2"
+            }
+          },
+          {
+            "id": "8a18a06fc31b1dcb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "1a81cb8d753eeb57",
+  "lastOpenFiles": [
+    "obsidian_git/test.md",
+    "obsidian_git/test2.md",
+    "obsidian_git/test2",
+    "obsidian_git/test",
+    "Templates/template2.md",
+    "testing/p/2025.06 호주 방문.md",
+    "testing/a/지식관리/obsidian.md",
+    "git_page/content/how to connect git_page, obsidian & automation.md",
+    "testing/a/지식관리.md",
+    "testing/a/tools.md",
+    "testing/a/tools/ai media.md",
+    "testing/a.md",
+    "git_page/content/index.md",
+    "git_page/content/Pasted image 20250306134433.png",
+    "git_page/content/freq_used_cmd_in_emacs.md",
+    "git_page/docs/index.md",
+    "git_page/globals.d.ts",
+    "git_page/tsconfig.json",
+    "git_page/quartz/static/giscus/light.css",
+    "git_page/quartz/static/giscus/dark.css",
+    "git_page/quartz/plugins/transformers/toc.ts",
+    "git_page/quartz/plugins/transformers/syntax.ts",
+    "git_page/quartz/plugins/transformers/roam.ts",
+    "git_page/quartz/plugins/transformers/links.ts",
+    "git_page/quartz/static/og-image.png",
+    "git_page/quartz/static/icon.png",
+    "git_page/docs/tags/plugin.md",
+    "git_page/docs/tags/component.md",
+    "git_page/docs/plugins/TagPage.md",
+    "git_page/docs/plugins/TableOfContents.md",
+    "git_page/docs/plugins/SyntaxHighlighting.md",
+    "git_page/docs/plugins/Static.md",
+    "git_page/docs/plugins/RemoveDrafts.md",
+    "git_page/docs/plugins/RoamFlavoredMarkdown.md",
+    "git_page/docs/plugins/OxHugoFlavoredMarkdown.md",
+    "git_page/docs/plugins/ObsidianFlavoredMarkdown.md",
+    "git_page/docs/plugins/NotFoundPage.md",
+    "git_page/docs/plugins/Latex.md",
+    "git_page/docs/images/social-image-preview-light.png",
+    "git_page/docs/images/social-image-preview-dark.png",
+    "git_page/docs/images/quartz-layout-mobile.png",
+    "git_page/docs/images/quartz-layout-tablet.png",
+    "git_page/docs/images/quartz-layout-desktop.png",
+    "git_page/docs/images/quartz transform pipeline.png",
+    "git_page/docs/images/github-quick-setup.png",
+    "Untitled.canvas"
+  ]
+}
