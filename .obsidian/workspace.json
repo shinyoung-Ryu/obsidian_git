@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Store/Obsidian 기본 셋팅.md",
+                "file": "10 Flow/flow test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian 기본 셋팅"
+              "title": "flow test"
+            }
+          },
+          {
+            "id": "5dc423a9f9575d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Store/2025.06 호주 방문.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025.06 호주 방문"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 Store/Obsidian 기본 셋팅.md",
+                "file": "01 Store/2025.06 호주 방문.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,22 +136,22 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224428,
+                  "linkDistance": 73,
+                  "scale": 0.713275462622445,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Obsidian 기본 셋팅"
+              "title": "Graph of 2025.06 호주 방문"
             }
           }
         ]
@@ -197,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Store/Obsidian 기본 셋팅.md",
+                "file": "01 Store/2025.06 호주 방문.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian 기본 셋팅"
+              "title": "Outline of 2025.06 호주 방문"
             }
           },
           {
@@ -221,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -239,10 +264,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a81cb8d753eeb57",
+  "active": "5dc423a9f9575d84",
   "lastOpenFiles": [
-    "01 Store/2025.06 호주 방문.md",
+    "10 Flow/flow test.md",
+    "11 Hierachies/hierachies test.md",
+    "00 InBox/2025-03-19.md",
+    "00 InBox/asdfa.md",
+    "Templates/date.md",
+    "Templates",
+    "Templaters/date,filePath.md",
+    "00 InBox/2025-03-19",
+    "Templaters/template2.md",
+    "00 InBox/flow 1.md",
+    "00 InBox/flow general.md",
+    "00 InBox/contents.md",
     "01 Store/Obsidian 기본 셋팅.md",
+    "99 Attachments/Obsidian 기본 셋팅/file-20250319002452152.png",
+    "00 InBox/flow 3.md",
+    "00 InBox/flow 2.md",
+    "00 InBox/intro.md",
+    "01 Store/2025.06 호주 방문.md",
     "01 Store/2025.06 호주 방문 1.md",
     "99 Attachments/2025.06 호주 방문/file-20250318235801673.png",
     "00 InBox/Pasted image 20250318233452.png.md",
@@ -254,7 +295,6 @@
     "99 Attachments/Obsidian 기본 셋팅/file-20250318234429711.png",
     "99 Attachments/Obsidian 기본 셋팅/file-20250318234406416.png",
     "99 Attachments/Obsidian 기본 셋팅/file-20250318234346004.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234331996.png",
     "99 Attachments/Obsidian 기본 셋팅",
     "99 Attachments${filename}",
     "01 Store/99 Attachments",
@@ -264,10 +304,6 @@
     "00 InBox/2025.06 호주 방문 1.md",
     "11 Hierachies",
     "10 Flow",
-    "Templates/date,filePath.md",
-    "Templates/template2.md",
-    "99 Attachments",
-    "00 InBox",
     "Templates 1/Untitled.md",
     "Templates 1/template2.md",
     "Templates 1/Template3.md",
@@ -276,17 +312,6 @@
     "test.md",
     "obsidian_git/test.md",
     "obsidian_git/test2.md",
-    "testing/p/2025.06 호주 방문.md",
-    "testing/a/지식관리/obsidian.md",
-    "git_page/content/how to connect git_page, obsidian & automation.md",
-    "testing/a/지식관리.md",
-    "testing/a/tools.md",
-    "testing/a/tools/ai media.md",
-    "testing/a.md",
-    "git_page/content/index.md",
-    "git_page/content/freq_used_cmd_in_emacs.md",
-    "git_page/docs/index.md",
-    "git_page/docs/tags/plugin.md",
     "Untitled.canvas"
   ]
 }
