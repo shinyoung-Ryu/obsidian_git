@@ -7,6 +7,6 @@
   "readableLineLength": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "00 InBox",
-  "attachmentFolderPath": "./99 Attachments",
+  "attachmentFolderPath": "99 Attachments",
   "propertiesInDocument": "source"
 }

@@ -1,0 +1,19 @@
+{
+  "attachmentFolderPath": "99 Attachments/${filename}",
+  "attachmentRenameMode": "Only pasted images",
+  "duplicateNameSeparator": " ",
+  "generatedAttachmentFilename": "file-${date:YYYYMMDDHHmmssSSS}",
+  "jpegQuality": 0.8,
+  "shouldConvertPastedImagesToJpeg": false,
+  "shouldDeleteOrphanAttachments": false,
+  "shouldKeepEmptyAttachmentFolders": false,
+  "shouldRenameAttachmentFiles": false,
+  "shouldRenameAttachmentFolder": true,
+  "shouldRenameAttachmentsToLowerCase": false,
+  "shouldRenameCollectedAttachments": false,
+  "warningVersion": "7.0.4",
+  "whitespaceReplacement": "",
+  "customTokensStr": "",
+  "excludePaths": [],
+  "includePaths": []
+}
