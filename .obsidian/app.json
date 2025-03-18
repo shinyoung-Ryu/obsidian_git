@@ -1,5 +1,12 @@
 {
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 InBox",
+  "attachmentFolderPath": "./99 Attachments",
+  "propertiesInDocument": "source"
 }

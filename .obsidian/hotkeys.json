@@ -1,0 +1,13 @@
+{
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-completr:completr-fake-enter": [],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": []
+}

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f77f21a7128234b",
+        "id": "932804e2703687e6",
         "type": "tabs",
         "children": [
           {
-            "id": "473939d1fa430957",
+            "id": "8620fcd5dc5f276f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian_git/test2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -98,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian_git/test2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +111,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of test2"
+              "title": "Graph view"
             }
           }
         ]
@@ -197,13 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian_git/test2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test2"
+              "title": "Outline"
             }
           },
           {
@@ -235,17 +219,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1a81cb8d753eeb57",
+  "active": "8620fcd5dc5f276f",
   "lastOpenFiles": [
+    "Templates/date,filePath.md",
+    "Templates/template2.md",
+    "99 Attachments",
+    "00 InBox",
+    "900 Attachment",
+    "000 InBox",
+    "Attachment",
+    "Untitled",
+    "InBox",
+    "Templates",
+    "Templates 1/Untitled.md",
+    "Templates 1/template2.md",
+    "Templates 1/Template3.md",
+    "Templates 1/date,filePath.md",
+    "Templates 1",
+    "test2.md",
+    "test.md",
     "obsidian_git/test.md",
     "obsidian_git/test2.md",
     "obsidian_git/test2",
-    "obsidian_git/test",
-    "Templates/template2.md",
     "testing/p/2025.06 호주 방문.md",
     "testing/a/지식관리/obsidian.md",
     "git_page/content/how to connect git_page, obsidian & automation.md",
@@ -257,14 +256,6 @@
     "git_page/content/Pasted image 20250306134433.png",
     "git_page/content/freq_used_cmd_in_emacs.md",
     "git_page/docs/index.md",
-    "git_page/globals.d.ts",
-    "git_page/tsconfig.json",
-    "git_page/quartz/static/giscus/light.css",
-    "git_page/quartz/static/giscus/dark.css",
-    "git_page/quartz/plugins/transformers/toc.ts",
-    "git_page/quartz/plugins/transformers/syntax.ts",
-    "git_page/quartz/plugins/transformers/roam.ts",
-    "git_page/quartz/plugins/transformers/links.ts",
     "git_page/quartz/static/og-image.png",
     "git_page/quartz/static/icon.png",
     "git_page/docs/tags/plugin.md",
@@ -272,13 +263,6 @@
     "git_page/docs/plugins/TagPage.md",
     "git_page/docs/plugins/TableOfContents.md",
     "git_page/docs/plugins/SyntaxHighlighting.md",
-    "git_page/docs/plugins/Static.md",
-    "git_page/docs/plugins/RemoveDrafts.md",
-    "git_page/docs/plugins/RoamFlavoredMarkdown.md",
-    "git_page/docs/plugins/OxHugoFlavoredMarkdown.md",
-    "git_page/docs/plugins/ObsidianFlavoredMarkdown.md",
-    "git_page/docs/plugins/NotFoundPage.md",
-    "git_page/docs/plugins/Latex.md",
     "git_page/docs/images/social-image-preview-light.png",
     "git_page/docs/images/social-image-preview-dark.png",
     "git_page/docs/images/quartz-layout-mobile.png",
