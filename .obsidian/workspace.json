@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Store/2025.06 호주 방문.md",
+                "file": "01 Store/Obsidian 기본 셋팅.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025.06 호주 방문"
+              "title": "Obsidian 기본 셋팅"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 Store/2025.06 호주 방문.md",
+                "file": "01 Store/Obsidian 기본 셋팅.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025.06 호주 방문"
+              "title": "Graph of Obsidian 기본 셋팅"
             }
           }
         ]
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Store/2025.06 호주 방문.md",
+                "file": "01 Store/Obsidian 기본 셋팅.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025.06 호주 방문"
+              "title": "Outline of Obsidian 기본 셋팅"
             }
           },
           {
@@ -239,10 +239,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8620fcd5dc5f276f",
+  "active": "1a81cb8d753eeb57",
   "lastOpenFiles": [
-    "01 Store/Obsidian 기본 셋팅.md",
     "01 Store/2025.06 호주 방문.md",
+    "01 Store/Obsidian 기본 셋팅.md",
     "01 Store/2025.06 호주 방문 1.md",
     "99 Attachments/2025.06 호주 방문/file-20250318235801673.png",
     "00 InBox/Pasted image 20250318233452.png.md",

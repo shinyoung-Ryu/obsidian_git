@@ -1,6 +1,7 @@
 [옵시디언 필수 초기 설정 한 방에 끝내기, 플러그인 설명 - YouTube](https://www.youtube.com/watch?v=RKKVIyZUuVw&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=2) #북트레싱
 [옵시디언 쌩 기초는 탄탄하게, 이 한 영상으로 완벽하게 익히세요. - YouTube](https://www.youtube.com/watch?v=KA1xjWQsex8&t=145s) #브라이언 #트리니티
 
+[옵시디언 사용법 A to Z - YouTube](https://www.youtube.com/playlist?list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl) #북트레싱 
 
 > [!NOTE]- my basic setting
 >![[Pasted image 20250318232950.png]]
