@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01/git/clone/magit.md",
+                "file": "10 Flow/10_1 Project/Ing/(250319) Config My Obsidian.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "magit"
+              "title": "(250319) Config My Obsidian"
             }
           },
           {
@@ -59,8 +59,7 @@
               "title": "Add new SSH key"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,6 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 Flow/10_1 Project/Ing/(250319) Config My Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,12 +149,12 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 73,
-                  "scale": 0.713275462622445,
+                  "scale": 0.7132754626224449,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of (250319) Config My Obsidian"
             }
           }
         ]
@@ -225,12 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10 Flow/10_1 Project/Ing/(250319) Config My Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of (250319) Config My Obsidian"
             }
           },
           {
@@ -252,9 +253,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "10 Flow/10_1 Project/Ing/(250319) Config My Obsidian.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for (250319) Config My Obsidian"
             }
           }
         ],
@@ -276,8 +279,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb47aed951c8077c",
+  "active": "5dc423a9f9575d84",
   "lastOpenFiles": [
+    "10 Flow/10_1 Project/Ing/(250225) 호주 방문.md",
+    "10 Flow/10_1 Project/Ing/(250319) Config My Obsidian.md",
+    "10 Flow/10_1 Project/Done/Untitled.canvas",
+    "10 Flow/10_1 Project/Done/Carrier",
+    "10 Flow/10_1 Project/Ing/Carrier",
+    "Templaters/project.md",
+    "01/2025.06 호주 방문 Plan.md",
+    "99 Attachments/2025.06 호주 방문 Plan",
+    "10 Flow/10_1 Project/Done",
+    "10 Flow/10_1 Project/Ing",
+    "Templaters/date,filePath.md",
     "01/git/clone/magit.md",
     "git/remote/sshSetup.md",
     "01/git/clone.md",
@@ -293,23 +307,16 @@
     "99 Attachments/magit/file-20250319164059236.png",
     "99 Attachments/magit/file-20250319163910384.png",
     "99 Attachments/magit",
-    "10 Flow/10_1 Project/(250319) Config My Obsidian.md",
     "01/git/clone",
     "01/linux/emacs/magit.md",
-    "01/linux/emacs",
     "01/linux/nixos/magit.md",
-    "01/linux/nixos",
-    "01/linux",
-    "01/git",
     "01/obsidian/make a new vault.md",
     "01/test/make a new vault.md",
-    "01/test",
     "01/obsidian/Obsidian 기본 셋팅.md",
     "00 InBox/google drive.md",
     "00 InBox/git.md",
     "99 Attachments/Obsidian 기본 셋팅/file-20250319161212119.png",
     "99 Attachments/Obsidian 기본 셋팅/file-20250319161148030.png",
-    "Templaters/date,filePath.md",
     "00 InBox/Pasted image 20250318233452.png.md",
     "Templates/date.md",
     "Templates/date, tags.md",
@@ -320,9 +327,6 @@
     "00 InBox/flow 3.md",
     "00 InBox/flow 2.md",
     "00 InBox/flow 1.md",
-    "10 Flow/flow test.md",
-    "01/2025.06 호주 방문.md",
-    "11 Hierachies/hierachies test.md",
     "Untitled.canvas"
   ]
 }
