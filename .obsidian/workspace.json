@@ -11,10 +11,52 @@
             "id": "5dc423a9f9575d84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01/git/clone/magit.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "magit"
+            }
+          },
+          {
+            "id": "eb47aed951c8077c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.perplexity.ai/search/how-to-capture-in-obsidian-hvzQRcT6RQ.ayQZ8EaCyaA",
+                "title": "how to capture in obsidian",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "how to capture in obsidian"
+            }
+          },
+          {
+            "id": "e792a53490fa4fb5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/settings/ssh/new",
+                "title": "Add new SSH key",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Add new SSH key"
             }
           }
         ]
@@ -84,6 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01/git/clone/magit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,14 +154,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of magit"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 296.5
   },
   "right": {
     "id": "4257ec4b2025d6da",
@@ -182,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Store/2025.06 호주 방문.md",
+                "file": "01/git/clone/magit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025.06 호주 방문"
+              "title": "Outline of magit"
             }
           },
           {
@@ -198,15 +241,27 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "468ddcd9f380b44b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01/git/clone/magit.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for magit"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -224,8 +279,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a81cb8d753eeb57",
+  "active": "5dc423a9f9575d84",
   "lastOpenFiles": [
+    "git/remote/sshSetup.md",
+    "01/git/clone/magit.md",
+    "01/git/clone.md",
+    "99 Attachments/sshSetup/file-20250319165311931.png",
+    "99 Attachments/sshSetup/file-20250319165054070.png",
+    "99 Attachments/sshSetup/file-20250319164951158.png",
+    "99 Attachments/sshSetup/file-20250319164925614.png",
+    "99 Attachments/sshSetup",
+    "git/remote",
+    "git",
+    "99 Attachments/magit/file-20250319164258466.png",
+    "99 Attachments/magit/file-20250319164235644.png",
+    "99 Attachments/magit/file-20250319164059236.png",
+    "99 Attachments/magit/file-20250319163910384.png",
+    "99 Attachments/magit",
+    "10 Flow/10_1 Project/(250319) Config My Obsidian.md",
+    "01/git/clone",
+    "01/linux/emacs/magit.md",
+    "01/linux/emacs",
+    "01/linux/nixos/magit.md",
+    "01/linux/nixos",
+    "01/linux",
+    "01/git",
+    "01/obsidian/make a new vault.md",
+    "01/test/make a new vault.md",
+    "01/test",
+    "01/obsidian/Obsidian 기본 셋팅.md",
+    "00 InBox/google drive.md",
+    "00 InBox/git.md",
+    "99 Attachments/Obsidian 기본 셋팅/file-20250319161212119.png",
+    "99 Attachments/Obsidian 기본 셋팅/file-20250319161148030.png",
+    "Templaters/date,filePath.md",
+    "00 InBox/Pasted image 20250318233452.png.md",
+    "Templates/date.md",
+    "Templates/date, tags.md",
     "00 InBox/intro.md",
     "00 InBox/asdfa.md",
     "00 InBox/contents.md",
@@ -234,43 +324,8 @@
     "00 InBox/flow 2.md",
     "00 InBox/flow 1.md",
     "10 Flow/flow test.md",
-    "00 InBox/2025-03-19.md",
-    "package-lock.json",
-    "01 Store/Obsidian 기본 셋팅.md",
-    "01 Store/2025.06 호주 방문.md",
+    "01/2025.06 호주 방문.md",
     "11 Hierachies/hierachies test.md",
-    "Templates/date.md",
-    "Templates",
-    "Templaters/date,filePath.md",
-    "00 InBox/2025-03-19",
-    "Templaters/template2.md",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250319002452152.png",
-    "01 Store/2025.06 호주 방문 1.md",
-    "99 Attachments/2025.06 호주 방문/file-20250318235801673.png",
-    "00 InBox/Pasted image 20250318233452.png.md",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234701958.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234640519.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234620974.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234527316.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234509299.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234429711.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234406416.png",
-    "99 Attachments/Obsidian 기본 셋팅/file-20250318234346004.png",
-    "99 Attachments/Obsidian 기본 셋팅",
-    "99 Attachments${filename}",
-    "01 Store/99 Attachments",
-    "01 Store",
-    "99 Attachments/2025.06 호주 방문",
-    "00 InBox/images",
-    "00 InBox/2025.06 호주 방문 1.md",
-    "11 Hierachies",
-    "Templates 1/Untitled.md",
-    "Templates 1/template2.md",
-    "Templates 1/Template3.md",
-    "Templates 1/date,filePath.md",
-    "test2.md",
-    "test.md",
-    "obsidian_git/test.md",
     "Untitled.canvas"
   ]
 }

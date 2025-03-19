@@ -3,11 +3,12 @@
 
 [옵시디언 사용법 A to Z - YouTube](https://www.youtube.com/playlist?list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl) #북트레싱 
 
+1st method:  left side menu 하단 -> 설정 창 -> 설정 (my basic setting 참조)
+
 > [!NOTE]- my basic setting
 >![[Pasted image 20250318232950.png]]
 >![[Pasted image 20250318233039.png]]
 >![[Pasted image 20250318233100.png]]
->![[Pasted image 20250318233452.png]]
 >![[file-20250318234310582.png]]
 >![[file-20250318234130817.png]]
 >![[file-20250318234331996.png]]
@@ -21,4 +22,9 @@
 >![[file-20250318234701958.png]]
 >![[file-20250319002452152.png]]
 
->
+2nd method: 가장 상위 폴더에 기존의 .obsidian folder를 통째로 복사하기
+
+> [!NOTE]- obsidian 설정 폴더
+> ![[file-20250319161148030.png]]
+> ![[file-20250319161212119.png]]
+> >
