@@ -1,6 +1,6 @@
 ---
 date: <% tp.date.now() %>
-Project:
+tags: [ ]
 ---
 
 <%*
