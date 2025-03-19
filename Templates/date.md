@@ -1,3 +1,3 @@
 ---
-date: {{date:YYYYMMDDHHMM}}
+date: {{date:YYYYMMDD-HHmmss}}
 ---
