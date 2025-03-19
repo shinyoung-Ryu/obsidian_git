@@ -744,6 +744,8 @@ YUa
 Ysl
 Ygud
 YYYYMMDDHHmmss
+YYYYMMDD
+YYYYMMDDHHMM
 jobs
 join
 jG
