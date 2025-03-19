@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Store/2025.06 호주 방문.md",
+                "file": "10 Flow/flow test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025.06 호주 방문"
+              "title": "flow test"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 Store/2025.06 호주 방문.md",
+                "file": "10 Flow/flow test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,12 +146,12 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 73,
-                  "scale": 0.713275462622445,
+                  "scale": 0.47551697508163,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025.06 호주 방문"
+              "title": "Graph of flow test"
             }
           }
         ]
@@ -266,6 +266,9 @@
   },
   "active": "5dc423a9f9575d84",
   "lastOpenFiles": [
+    "package-lock.json",
+    "01 Store/Obsidian 기본 셋팅.md",
+    "01 Store/2025.06 호주 방문.md",
     "10 Flow/flow test.md",
     "11 Hierachies/hierachies test.md",
     "00 InBox/2025-03-19.md",
@@ -278,12 +281,10 @@
     "00 InBox/flow 1.md",
     "00 InBox/flow general.md",
     "00 InBox/contents.md",
-    "01 Store/Obsidian 기본 셋팅.md",
     "99 Attachments/Obsidian 기본 셋팅/file-20250319002452152.png",
     "00 InBox/flow 3.md",
     "00 InBox/flow 2.md",
     "00 InBox/intro.md",
-    "01 Store/2025.06 호주 방문.md",
     "01 Store/2025.06 호주 방문 1.md",
     "99 Attachments/2025.06 호주 방문/file-20250318235801673.png",
     "00 InBox/Pasted image 20250318233452.png.md",
@@ -311,7 +312,6 @@
     "test2.md",
     "test.md",
     "obsidian_git/test.md",
-    "obsidian_git/test2.md",
     "Untitled.canvas"
   ]
 }
