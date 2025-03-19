@@ -37,12 +37,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.perplexity.ai/search/how-to-capture-in-obsidian-hvzQRcT6RQ.ayQZ8EaCyaA",
-                "title": "how to capture in obsidian",
+                "url": "https://www.perplexity.ai/search/how-to-checkout-to-a-remote-br-lg.YStQPQ2qKPItCEyVDtA",
+                "title": "how to checkout to a remote branch via magit",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "how to capture in obsidian"
+              "title": "how to checkout to a remote branch via magit"
             }
           },
           {
@@ -59,7 +59,8 @@
               "title": "Add new SSH key"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01/git/clone/magit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +154,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of magit"
+              "title": "Graph view"
             }
           }
         ]
@@ -225,13 +225,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01/git/clone/magit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of magit"
+              "title": "Outline"
             }
           },
           {
@@ -253,11 +252,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01/git/clone/magit.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for magit"
+              "title": "File properties"
             }
           }
         ],
@@ -279,10 +276,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dc423a9f9575d84",
+  "active": "eb47aed951c8077c",
   "lastOpenFiles": [
-    "git/remote/sshSetup.md",
     "01/git/clone/magit.md",
+    "git/remote/sshSetup.md",
     "01/git/clone.md",
     "99 Attachments/sshSetup/file-20250319165311931.png",
     "99 Attachments/sshSetup/file-20250319165054070.png",
