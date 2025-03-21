@@ -1,0 +1,22 @@
+/* Nord 테마 배경 투명도 조절 */
+body {
+  background-color: rgba(46, 52, 64, 0.8); /* 배경색 및 투명도 조절 */
+}
+
+.theme-dark {
+    --background-primary: rgba(46, 52, 64, 0.8); /* 테마 어두운 배경 투명도 조절 */
+    --background-secondary: rgba(59, 66, 82, 0.8); /* 테마 어두운 보조 배경 투명도 조절 */
+}
+
+.theme-light {
+    --background-primary: rgba(236, 239, 244, 0.8); /* 테마 밝은 배경 투명도 조절 */
+    --background-secondary: rgba(227, 231, 238, 0.8); /* 테마 밝은 보조 배경 투명도 조절 */
+}
+
+.workspace-leaf-content {
+    background-color: rgba(46, 52, 64, 0.8); /* 노트 내용 배경 투명도 조절 */
+}
+
+.cm-content {
+    background-color: transparent !important; /* 편집기 내용 배경 투명 */
+}

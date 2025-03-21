@@ -2,8 +2,10 @@
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
-    "depth-style"
+    "depth-style",
+    "bgColor"
   ],
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "accentColor": "#f55c5c"
 }
