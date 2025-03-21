@@ -9,5 +9,29 @@
     }
   ],
   "obsidian-completr:completr-fake-enter": [],
-  "obsidian-completr:completr-jump-to-next-snippet-placeholder": []
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
 }

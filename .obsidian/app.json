@@ -8,5 +8,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00 InBox",
   "attachmentFolderPath": "99 Attachments",
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showInlineTitle": true
 }
