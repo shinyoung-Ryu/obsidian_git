@@ -4,6 +4,6 @@
   "enabledCssSnippets": [
     "depth-style"
   ],
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true
 }

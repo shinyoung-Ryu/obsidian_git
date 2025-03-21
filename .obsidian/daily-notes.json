@@ -1,5 +1,5 @@
 {
   "folder": "00 InBox",
-  "template": "Templates/date",
+  "template": "Templates/00 date",
   "format": "YYMMDD-HHmmss"
 }
