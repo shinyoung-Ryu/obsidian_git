@@ -49,12 +49,26 @@
         "Shift"
       ],
       "key": "L"
+    },
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "L"
     }
   ],
   "workspace:split-horizontal": [
     {
       "modifiers": [
         "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    },
+    {
+      "modifiers": [
+        "Meta",
         "Shift"
       ],
       "key": "D"

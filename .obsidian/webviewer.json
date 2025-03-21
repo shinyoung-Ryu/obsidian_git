@@ -1,6 +1,7 @@
 {
   "openExternalURLs": true,
-  "enableAdblocking": true,
-  "searchEngine": "brave",
-  "markdownPath": "99 Attachments"
+  "enableAdblocking": false,
+  "searchEngine": "google",
+  "markdownPath": "99 Attachments",
+  "homepage": "https://www.google.com"
 }
