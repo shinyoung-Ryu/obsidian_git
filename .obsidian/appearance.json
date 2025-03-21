@@ -3,5 +3,7 @@
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "depth-style"
-  ]
+  ],
+  "showRibbon": false,
+  "showViewHeader": true
 }
