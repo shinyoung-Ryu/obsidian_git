@@ -1,7 +1,7 @@
 ---
 date: 2025-03-19
 ---
-#ssh #git #remote #setting
+
 
 > [!NOTE]- remote setup
 > ![[file-20250319164951158.png]]

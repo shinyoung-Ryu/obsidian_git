@@ -1,7 +1,6 @@
 ---
 date: 2025-03-19
 ---
-#magit #git #clone #nixos #ssh #config #nix #flake 
 
 1. [[sshSetup]]
 2.  parentFolder -> magit status (spc g g) -> magit-dispatch (C-c C-c) -> Clone (S-c) -> url(u) -> user@Host:repositoryAddress
