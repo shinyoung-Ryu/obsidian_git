@@ -4738,6 +4738,7 @@ cdi
 cWk
 cjxY
 cVs
+capcut
 filePath
 file
 folders
@@ -45650,6 +45651,7 @@ hog
 hFn
 hWu
 hei
+hailuo
 üY
 üA
 üb
