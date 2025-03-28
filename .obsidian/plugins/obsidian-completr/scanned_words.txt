@@ -4742,6 +4742,7 @@ cWk
 cjxY
 cVs
 capcut
+copilot
 filePath
 file
 folders
@@ -6467,6 +6468,7 @@ tXiJ
 tuV
 tWG
 tEEE
+tilnote
 path
 pop
 paths
@@ -14728,6 +14730,7 @@ gqO
 gnV
 gtd
 goodLock
+gpts
 words
 wX
 wqF
