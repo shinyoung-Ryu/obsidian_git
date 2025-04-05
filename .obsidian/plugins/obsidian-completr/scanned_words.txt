@@ -8389,6 +8389,7 @@ sqbxZ
 sZY
 sMMM
 sbbb
+smithery
 map
 mC
 mq
@@ -10337,6 +10338,7 @@ dqWW
 deq
 dOK
 dZn
+desktop
 now
 nRs
 nt
@@ -23656,6 +23658,7 @@ aNF
 aNx
 aNZO
 aII
+anthropic
 Ve
 Va
 VB
